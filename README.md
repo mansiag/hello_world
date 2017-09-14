@@ -1,3 +1,3 @@
 # hello_world
-hi! everyone
-here, mansi agrawal currently pursuing btech in computer science.
+hi! everyone,i am mansi agrawal currently pursuing btech in computer science.
+I am a good learner and curious to know more.
